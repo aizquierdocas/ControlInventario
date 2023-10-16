@@ -1,6 +1,6 @@
 <INICIO>
 
-1. Procesa la actualización
-2. Obtener detalle de los cambios
+1. Producto 1, precio =15.00
+2. Producto 2, precio =25.00
 
 <FIN>
