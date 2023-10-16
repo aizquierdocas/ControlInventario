@@ -1,0 +1,6 @@
+<INICIO>
+
+1. Procesa la actualización
+2. Obtener detalle de los cambios
+
+<FIN>
