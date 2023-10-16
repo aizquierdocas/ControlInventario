@@ -1,0 +1,6 @@
+<INICIO>
+
+1. Producto 1, precio =20.50
+2. Producto 2, precio =30.00
+
+<FIN>
